@@ -1,0 +1,29 @@
+#tag {
+	margin-top: 50px;
+}
+#gate {
+	margin-top: 55px;
+}
+#tags {
+	margin-top: 55px;
+
+}
+h5 {
+	color: black;
+}
+
+.edit {
+	border: none;
+}
+.thumbnail img {
+	height: 240px;
+	width: 290px;
+}
+hr {
+	width: 20px;
+	height: 4px;
+	background-color: yellow;
+}
+p {
+	text-transform: capitalize;
+}
